@@ -3,6 +3,7 @@ bin/
 obj/
 
 # User and IDE files
+.junie/
 .idea/
 .vscode/
 *.user
